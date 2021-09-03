@@ -1,0 +1,2 @@
+(a) K is chosen in such a way that the data points are closer to each other in a cluster.
+(b) K is chosen in such a way that the clusters should be well resolved. In other words the clusters should be far away from each other such that they are well distinguisable.
